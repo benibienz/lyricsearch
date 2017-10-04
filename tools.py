@@ -90,5 +90,5 @@ def search_for_lyric(lyric):
             print(song)
 
 if __name__ == '__main__':
-    # make_lyric_file('test files')
-    search_for_lyric('fo')
+    make_lyric_file('test files')
+    # search_for_lyric('fo')
